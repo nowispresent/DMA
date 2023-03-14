@@ -4,9 +4,12 @@
 - FRONTEND : JS, REACT(NEXT), VUE(NUXT), SCSS
 - BACKEND : GO, JAVA(SPRING)
 - DB : MariaDB
+***
 
-## 0_Counter PROGRAM USING Vanila
+## FOUNDATION
+### 0_Counter PROGRAM USING Vanila
 - Simple Counter
 
-## 1_TODO PROGRAM USING Vanila
+### 1_TODO PROGRAM USING Vanila
 - Simple TODO
+***
