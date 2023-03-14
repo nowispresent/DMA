@@ -1,2 +1,12 @@
 # DMA
-toy projects
+- TOY WEB PROJECT
+- MEMBER : NAM, TYP
+- FRONTEND : JS, REACT(NEXT), VUE(NUXT)
+- BACKEND : GO, JAVA(SPRING)
+- DB : MariaDB
+
+## 0
+- Counter PROGRAM USING Vanila
+
+## 1
+- TODO PROGRAM USING Vanila
